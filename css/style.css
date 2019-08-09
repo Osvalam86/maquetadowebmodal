@@ -1,0 +1,9 @@
+.fondo {
+    background: url('../assets/02.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.alto {
+    height: 100vh;
+}
